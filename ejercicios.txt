@@ -1,0 +1,3 @@
+Almacene un mensaje en una variable 
+e imprímalo en pantalla. Después cambie
+ el valor mensaje e imprímalo nuevamente
